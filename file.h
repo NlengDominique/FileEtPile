@@ -10,21 +10,11 @@ struct File
    int fin;
 };
 
-File init_F(File F1){
-
-}
-int estVideFile(File F2){
-
-}
-int estPleineFile(File F3){
-
-}
-File enfiler(File F4, int E){
-    
-}
-File defiler(File F5, int X){
-
-}
+File init_F(File F1);
+int estVideFile(File F2);
+int estPleineFile(File F3);
+File enfiler(File F4, int E);
+File defiler(File F5, int X);
 
 
 #endif //FILE_H_INCLUDED
